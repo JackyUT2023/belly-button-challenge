@@ -9,8 +9,10 @@ As starter materials, there are index.html, samples.json, and the static folder 
 
 ## Parts
 There are 4 parts for the projects:
-    - Build the dropdown menu in the Test Subject ID section;
-    - Popup the Demographic Info
-    - Create the Barchart
-    - Create the bubblechart
+  - Build the dropdown menu in the Test Subject ID section;
+  - Popup the Demographic Info
+  - Create the Barchart
+  - Create the bubblechart
 
+## Live Page
+https://jackyut2023.github.io/belly-button-challenge/
